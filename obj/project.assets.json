@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexa\\documents\\coding\\c-sharp\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\Alexa\\Documents\\coding-2023\\c-sharp\\c--playground\\app.csproj",
       "projectName": "app",
-      "projectPath": "C:\\Users\\Alexa\\documents\\coding\\c-sharp\\app\\app.csproj",
+      "projectPath": "C:\\Users\\Alexa\\Documents\\coding-2023\\c-sharp\\c--playground\\app.csproj",
       "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexa\\documents\\coding\\c-sharp\\app\\obj\\",
+      "outputPath": "C:\\Users\\Alexa\\Documents\\coding-2023\\c-sharp\\c--playground\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
